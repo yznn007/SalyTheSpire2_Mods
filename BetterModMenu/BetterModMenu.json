@@ -1,0 +1,12 @@
+{
+	"affects_gameplay": false,
+	"author": "Crunch",
+	"dependencies": [],
+	"description": "Adds profile and grouping functionality to the Slay the Spire 2 mod manager.",
+	"download_source": "nexus",
+	"has_dll": true,
+	"has_pck": false,
+	"id": "BetterModMenu",
+	"name": "Better Mod Menu",
+	"version": "0.0.3"
+}

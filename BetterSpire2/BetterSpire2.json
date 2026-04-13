@@ -1,0 +1,12 @@
+{
+	"affects_gameplay": true,
+	"author": "jdr",
+	"dependencies": [],
+	"description": "QoL mod: incoming damage totals, multi-hit labels, hand viewer, hold-R restart, skip splash, multiplayer kick/scaling",
+	"download_source": "nexus",
+	"has_dll": true,
+	"has_pck": false,
+	"id": "BetterSpire2",
+	"name": "BetterSpire2",
+	"version": "v1.78"
+}

@@ -1,0 +1,12 @@
+{
+	"affects_gameplay": false,
+	"author": "皮一下就很凡@Bilibili",
+	"dependencies": [],
+	"description": "谁尽力?谁犯罪?谁的打法不团队?伤害、格挡、助攻、卡牌效率……17种战斗统计全覆盖，数据仪表盘一键复盘。开黑必装，全平台通用。\nWho carried? Who slacked? 17 combat stat categories, dashboard, co-op ready. Cross-platform.",
+	"download_source": "nexus",
+	"has_dll": true,
+	"has_pck": true,
+	"id": "DamageMeter",
+	"name": "Skada: Damage Meter",
+	"version": "1.14.0"
+}
