@@ -40,3 +40,4 @@
 ## 使用方法
 
 - 直接将仓库打包成压缩包 [打包链接](https://codeload.github.com/yznn007/SalyTheSpire2_Mods/zip/refs/heads/main) ，在游戏根目录(一般为Steam\steamapps\common\Slay the Spire 2)新建mods文件夹，将解压后的文件放入。
+- 在右侧release下载压缩包
