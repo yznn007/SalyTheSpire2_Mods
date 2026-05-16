@@ -1,0 +1,11 @@
+{
+  "id": "voicemod",
+  "pck_name": "VoiceMod",
+  "name": "VoiceMod",
+  "author": "Yatima",
+  "description": "Plays voice lines for Regent card plays, player taking damage, and player receiving debuffs",
+  "version": "1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": false
+}
