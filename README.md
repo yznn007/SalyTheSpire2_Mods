@@ -14,6 +14,7 @@
 ### 功能
 
 #### 懒人
+
 - **SpeedX**：最高 20 倍速！自动跳过动画、自动结束回合、自动捡东西，按 F9 自定义。
 - **BetterSpire2**：显示即将受到的伤害、多段攻击标签、长按 R 快速重开、跳过开场动画等一堆贴心功能。
 - **BetterModMenu**：增强模组管理菜单，支持配置分组和配置档管理。
@@ -21,17 +22,21 @@
 - **RouteSuggest**：地图上自动画出推荐路线（金色=安全，红色=激进）。
 
 #### 联机
+
 - **DamageMeter**：战斗伤害统计仪表盘，谁在混、谁在 C 一目了然。
 - **QuickLink**：联机快速回退工具，房主可回到历史节点，队友可自动回房并自动准备。
 - **RemoveMultiplayerPlayerLimit**：将联机人数上限从 4 人提升到 16 人。
 - **STS-ShowPlayerHandCards**：联机时实时显示队友手牌，悬停可查看完整卡牌详情。
+- **SlaytheSpire2.unlockAll**：解锁时间线。
 
 ### 美化
 
 #### 储君
 
 - **RegentCardsAnimeRework**：把 Regent 的卡牌立绘换成可爱动漫风格。
-- **Mesugaki**：给 Regent 换上"杂鱼杂鱼♡"风格的臭小鬼语音和外观。
+- **Mesugaki**：给 Regent 换上"杂鱼杂鱼♡"风格的外观。
+- **RegentFX**: 为 Regent 添加星环和特殊攻击/施法效果。
+- **regentvoicemod**: 为 Regent 添加语音。
 - **BetterSovereignBlade**：可以移动/调整王刃的位置。
 
 ## 下载与使用
